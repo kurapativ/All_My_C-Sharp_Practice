@@ -1,0 +1,6 @@
+c:\users\tatha\documents\visual studio 2015\Projects\Homework_04\Homework_04\bin\Debug\Homework_04.exe.config
+c:\users\tatha\documents\visual studio 2015\Projects\Homework_04\Homework_04\obj\Debug\Homework_04.csprojResolveAssemblyReference.cache
+C:\Users\Tatha\Documents\Visual Studio 2015\Projects\Homework_04\Homework_04\bin\Debug\Homework_04.exe
+C:\Users\Tatha\Documents\Visual Studio 2015\Projects\Homework_04\Homework_04\bin\Debug\Homework_04.pdb
+C:\Users\Tatha\Documents\Visual Studio 2015\Projects\Homework_04\Homework_04\obj\Debug\Homework_04.exe
+C:\Users\Tatha\Documents\Visual Studio 2015\Projects\Homework_04\Homework_04\obj\Debug\Homework_04.pdb

@@ -1,0 +1,6 @@
+c:\users\tatha\documents\visual studio 2015\Projects\_1_Temperatures.cs\_1_Temperatures.cs\bin\Debug\_1_Temperatures.cs.exe.config
+c:\users\tatha\documents\visual studio 2015\Projects\_1_Temperatures.cs\_1_Temperatures.cs\bin\Debug\_1_Temperatures.cs.exe
+c:\users\tatha\documents\visual studio 2015\Projects\_1_Temperatures.cs\_1_Temperatures.cs\bin\Debug\_1_Temperatures.cs.pdb
+c:\users\tatha\documents\visual studio 2015\Projects\_1_Temperatures.cs\_1_Temperatures.cs\obj\Debug\_1_Temperatures.cs.csprojResolveAssemblyReference.cache
+c:\users\tatha\documents\visual studio 2015\Projects\_1_Temperatures.cs\_1_Temperatures.cs\obj\Debug\_1_Temperatures.cs.exe
+c:\users\tatha\documents\visual studio 2015\Projects\_1_Temperatures.cs\_1_Temperatures.cs\obj\Debug\_1_Temperatures.cs.pdb

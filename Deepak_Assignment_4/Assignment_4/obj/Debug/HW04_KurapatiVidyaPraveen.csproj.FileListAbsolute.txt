@@ -1,0 +1,6 @@
+c:\users\tatha\documents\visual studio 2015\Projects\HW04_KurapatiVidyaPraveen\HW04_KurapatiVidyaPraveen\bin\Debug\HW04_KurapatiVidyaPraveen.exe.config
+c:\users\tatha\documents\visual studio 2015\Projects\HW04_KurapatiVidyaPraveen\HW04_KurapatiVidyaPraveen\obj\Debug\HW04_KurapatiVidyaPraveen.csprojResolveAssemblyReference.cache
+c:\users\tatha\documents\visual studio 2015\Projects\HW04_KurapatiVidyaPraveen\HW04_KurapatiVidyaPraveen\bin\Debug\HW04_KurapatiVidyaPraveen.exe
+c:\users\tatha\documents\visual studio 2015\Projects\HW04_KurapatiVidyaPraveen\HW04_KurapatiVidyaPraveen\bin\Debug\HW04_KurapatiVidyaPraveen.pdb
+c:\users\tatha\documents\visual studio 2015\Projects\HW04_KurapatiVidyaPraveen\HW04_KurapatiVidyaPraveen\obj\Debug\HW04_KurapatiVidyaPraveen.exe
+c:\users\tatha\documents\visual studio 2015\Projects\HW04_KurapatiVidyaPraveen\HW04_KurapatiVidyaPraveen\obj\Debug\HW04_KurapatiVidyaPraveen.pdb

@@ -1,0 +1,6 @@
+c:\users\tatha\documents\visual studio 2015\Projects\Praveen_Kurapati_Assignment4\Praveen_Kurapati_Assignment4\bin\Debug\Praveen_Kurapati_Assignment4.exe.config
+c:\users\tatha\documents\visual studio 2015\Projects\Praveen_Kurapati_Assignment4\Praveen_Kurapati_Assignment4\bin\Debug\Praveen_Kurapati_Assignment4.exe
+c:\users\tatha\documents\visual studio 2015\Projects\Praveen_Kurapati_Assignment4\Praveen_Kurapati_Assignment4\bin\Debug\Praveen_Kurapati_Assignment4.pdb
+c:\users\tatha\documents\visual studio 2015\Projects\Praveen_Kurapati_Assignment4\Praveen_Kurapati_Assignment4\obj\Debug\Praveen_Kurapati_Assignment4.csprojResolveAssemblyReference.cache
+c:\users\tatha\documents\visual studio 2015\Projects\Praveen_Kurapati_Assignment4\Praveen_Kurapati_Assignment4\obj\Debug\Praveen_Kurapati_Assignment4.exe
+c:\users\tatha\documents\visual studio 2015\Projects\Praveen_Kurapati_Assignment4\Praveen_Kurapati_Assignment4\obj\Debug\Praveen_Kurapati_Assignment4.pdb

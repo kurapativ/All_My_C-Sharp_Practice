@@ -1,0 +1,5 @@
+c:\users\tatha\documents\visual studio 2015\Projects\Susheel_HW04\Susheel_HW04\bin\Debug\Susheel_HW04.exe.config
+c:\users\tatha\documents\visual studio 2015\Projects\Susheel_HW04\Susheel_HW04\bin\Debug\Susheel_HW04.exe
+c:\users\tatha\documents\visual studio 2015\Projects\Susheel_HW04\Susheel_HW04\bin\Debug\Susheel_HW04.pdb
+c:\users\tatha\documents\visual studio 2015\Projects\Susheel_HW04\Susheel_HW04\obj\Debug\Susheel_HW04.exe
+c:\users\tatha\documents\visual studio 2015\Projects\Susheel_HW04\Susheel_HW04\obj\Debug\Susheel_HW04.pdb

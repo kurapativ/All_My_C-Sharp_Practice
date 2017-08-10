@@ -1,0 +1,6 @@
+c:\users\tatha\documents\visual studio 2015\Projects\hwprac01\hwprac01\bin\Debug\hwprac01.exe.config
+c:\users\tatha\documents\visual studio 2015\Projects\hwprac01\hwprac01\obj\Debug\hwprac01.csprojResolveAssemblyReference.cache
+c:\users\tatha\documents\visual studio 2015\Projects\hwprac01\hwprac01\bin\Debug\hwprac01.exe
+c:\users\tatha\documents\visual studio 2015\Projects\hwprac01\hwprac01\bin\Debug\hwprac01.pdb
+c:\users\tatha\documents\visual studio 2015\Projects\hwprac01\hwprac01\obj\Debug\hwprac01.exe
+c:\users\tatha\documents\visual studio 2015\Projects\hwprac01\hwprac01\obj\Debug\hwprac01.pdb

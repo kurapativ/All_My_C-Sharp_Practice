@@ -1,0 +1,3 @@
+C:\Users\Tatha\Documents\Visual Studio 2015\Projects\Assignment_4\Assignment_4\bin\Debug\HW04_KurapatiVidyaPraveen.exe.config
+C:\Users\Tatha\Documents\Visual Studio 2015\Projects\Assignment_4\Assignment_4\obj\Debug\HW04_KurapatiVidyaPraveen.exe
+C:\Users\Tatha\Documents\Visual Studio 2015\Projects\Assignment_4\Assignment_4\obj\Debug\HW04_KurapatiVidyaPraveen.pdb

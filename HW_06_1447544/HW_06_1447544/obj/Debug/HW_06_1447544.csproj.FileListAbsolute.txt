@@ -1,0 +1,6 @@
+c:\users\tatha\documents\visual studio 2015\Projects\HW_06_1447544\HW_06_1447544\bin\Debug\HW_06_1447544.exe.config
+c:\users\tatha\documents\visual studio 2015\Projects\HW_06_1447544\HW_06_1447544\bin\Debug\HW_06_1447544.exe
+c:\users\tatha\documents\visual studio 2015\Projects\HW_06_1447544\HW_06_1447544\bin\Debug\HW_06_1447544.pdb
+c:\users\tatha\documents\visual studio 2015\Projects\HW_06_1447544\HW_06_1447544\obj\Debug\HW_06_1447544.csprojResolveAssemblyReference.cache
+c:\users\tatha\documents\visual studio 2015\Projects\HW_06_1447544\HW_06_1447544\obj\Debug\HW_06_1447544.exe
+c:\users\tatha\documents\visual studio 2015\Projects\HW_06_1447544\HW_06_1447544\obj\Debug\HW_06_1447544.pdb
